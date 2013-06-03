@@ -1,0 +1,96 @@
+
+---- config
+# Basic config options.
+title: CloudPAN
+indent: 5
+height: 24
+width: 80
+skip: 0
+
+# The following options are for Gvim usage.
+vim: gvim
+fuopt: maxhorz,maxvert
+guioptions: egmLtT
+guifont: Bitstream_Vera_Sans_Mono:h48
+guicursor: a:blinkon0-ver25-Cursor
+
+---- center
+
+When you don't want to install modules to try them out:
+CloudPAN
+
+Nicholas Perez ( nperez )
+
+ILPW 2013
+
+---- center
+
+Let's talk about clouds.
+
+---- center
+
+METACPAN
+
+---- center
+
+What is it?
+
+---- center
+
+Why use it?
+
+---- center
+
+How do we use it?
+
+---- center
+
+CloudPAN
+
+---- center
+
+CLOUDS HOW DO THEY WORK
+
+---- center
+
+Magic.
+
+---- center
+
+No really. This stuff is magic.
+
+---- center
+
+@INC HOOKS HOW DO THEY WORK
+
+---- center
+
+Three Ways of the Warrior
+
+---- center
+
+1. CodeRef
++2. ArrayRef
++3. Object
+
+---- center
+
+What does CloudPAN do?
+
+---- center
+
+THE FIRST ONE
+
+---- center
+
+NOW LET'S SEE A DEMO
+
+---- center
+
+That's all.
+
+---- center
+
+Questions?
+
+
