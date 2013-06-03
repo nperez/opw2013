@@ -1,4 +1,6 @@
-" This .vimrc file was created by Vroom-0.27
+" This .vimrc file was created by Vroom-0.28
+set nocompatible
+syntax on
 
 map <SPACE> :n<CR>:<CR>gg
 map <BACKSPACE> :N<CR>:<CR>gg

@@ -6,7 +6,7 @@
     QQ              Quit Vroom
 
     RR              Run slide as a program
-    VV              vroom --vroom 
+    VV              vroom vroom
     EE              Edit file under cursor
     OO              Open file under cursor (Mac OS X)
 
